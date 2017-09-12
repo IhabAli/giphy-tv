@@ -1,0 +1,57 @@
+
+
+body {
+    background: url('../images/back.jpg');
+}
+
+img {
+    max-height: 155px;
+}
+p {
+
+    font-family: "Times New Roman", times, serif;
+
+}
+form,
+.showBtn {
+    background-color: #474747;
+    color: white;
+}
+
+form {
+    padding: 10px;
+}
+
+#newShowInput {
+    color: black;
+}
+
+.ratingStyle {
+    color: white;
+    background-color: black;
+}
+
+#addShow {
+    background-color: white;
+    color: black;
+    border: none;
+}
+
+input {
+    margin: 13px;
+}
+
+button {
+    background-color: black;
+    border: none;
+    font-family: sans-serif;
+}
+
+#TVBtns {
+    margin: 13px;
+}
+
+.showBtn {
+    padding: 5px;
+    margin: 4px;
+}
